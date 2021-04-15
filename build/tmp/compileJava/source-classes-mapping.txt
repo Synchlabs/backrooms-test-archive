@@ -1,0 +1,8 @@
+net/synchlabs/backrooms/registry/BackroomsBlocks.java
+ net.synchlabs.backrooms.registry.BackroomsBlocks
+net/synchlabs/backrooms/registry/BackroomsItems.java
+ net.synchlabs.backrooms.registry.BackroomsItems
+net/synchlabs/backrooms/mixin/MixinMain.java
+ net.synchlabs.backrooms.mixin.MixinMain
+net/synchlabs/backrooms/Backrooms.java
+ net.synchlabs.backrooms.Backrooms
