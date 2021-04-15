@@ -18,12 +18,6 @@ import java.util.Map;
 
 public class BackroomsBlocks {
 
-
-    // Acts as a kind of local registry for block items added by The Backrooms
-    private static final Map<Identifier, BlockItem> ITEMS = new LinkedHashMap<>();
-    // Acts as a kind of local registry for blocks added by The Backrooms
-    private static final Map<Identifier, Block> BLOCKS = new LinkedHashMap<>();
-
     public static final Block WALLPAPER = new Block(FabricBlockSettings.of(Material.BAMBOO).hardness(3).resistance(66).breakByHand(false).breakByTool(FabricToolTags.AXES).requiresTool());
     public static final Block STRIPED_WALLPAPER = new Block(FabricBlockSettings.of(Material.BAMBOO).hardness(3).resistance(66).breakByHand(false).breakByTool(FabricToolTags.AXES).requiresTool());
     public static final Block DOTTED_WALLPAPER = new Block(FabricBlockSettings.of(Material.BAMBOO).hardness(3).resistance(66).breakByHand(false).breakByTool(FabricToolTags.AXES).requiresTool());
