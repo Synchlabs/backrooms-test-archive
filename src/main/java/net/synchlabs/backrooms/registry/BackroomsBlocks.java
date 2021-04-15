@@ -22,7 +22,7 @@ public class BackroomsBlocks {
     public static final Block STRIPED_WALLPAPER = new Block(FabricBlockSettings.of(Material.BAMBOO).hardness(3).resistance(66).breakByHand(false).breakByTool(FabricToolTags.AXES).requiresTool());
     public static final Block DOTTED_WALLPAPER = new Block(FabricBlockSettings.of(Material.BAMBOO).hardness(3).resistance(66).breakByHand(false).breakByTool(FabricToolTags.AXES).requiresTool());
     public static final Block DRYWALL = new Block(FabricBlockSettings.of(Material.SPONGE).hardness(1).resistance(5).breakByTool(FabricToolTags.HOES).sounds(BlockSoundGroup.NYLIUM));
-    public static final Block CARPET = new Block(FabricBlockSettings.of(Material.WOOL).sounds(BlockSoundGroup.WET_GRASS));
+    public static final Block CARPET = new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(0.5).breakByTool(FabricToolTags.SHEARS).sounds(BlockSoundGroup.WET_GRASS));
 
     public static void registerBlocks() {
 

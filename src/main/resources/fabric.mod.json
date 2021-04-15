@@ -4,7 +4,7 @@
   "version": "0.0.1",
 
   "name": "The Backrooms",
-  "description": "=)",
+  "description": "Adds the Backrooms to Minecraft. Pretty self explanatory.",
   "authors": [
     "Synchronius"
   ],
@@ -32,6 +32,5 @@
     "minecraft": "1.16.x"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }
