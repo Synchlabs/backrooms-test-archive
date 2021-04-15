@@ -11,6 +11,6 @@ However, if you're impatient and wanna try it out now, you can always download t
 
 ## License 
 
-This mod is available under the CC0 license. Feel free to learn from it, and incorporate it in your own projects!
+GNU LESSER GENERAL PUBLIC LICENSE 3.0
 
 
