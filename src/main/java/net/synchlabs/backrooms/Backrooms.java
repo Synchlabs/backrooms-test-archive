@@ -13,7 +13,6 @@ public class Backrooms implements ModInitializer {
 	public void onInitialize() {
 		BackroomsBlocks.registerBlocks();
 		BackroomsItems.registerItems();
-		System.out.println("Backrooms POG");
 	}
 
 	public static Identifier id(String id) {
